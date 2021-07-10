@@ -32,6 +32,7 @@ body{
     margin-right: 0%;
     border-left: 1px solid;
     border-bottom: 1px solid;
+    padding-top: 5px;
     padding-bottom: 5px;
     text-align: center;
     overflow-wrap: normal;
