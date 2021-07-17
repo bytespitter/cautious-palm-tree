@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#brand {
+    font-size: 40px;
+    color: darkolivegreen;
+}
+
+#navi {
+    padding: 5px;
+} 
+
+div h2 {
+    color: rgb(168, 53, 53);
+    margin-top: 30px;
+}
+
+.row div {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
+ul {
+    background-color: bisque;
+    font-size: 20px;
+}
+
+#d1 {
+    background-color: darkkhaki;
+}
+
+#d2 {
+    background-color: lightskyblue;
+}
+
+#d3 {
+    background-color: plum;
+}
